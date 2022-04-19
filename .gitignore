@@ -3,3 +3,12 @@
 
 #dataset
 datasets/
+
+#output
+*/output/
+*/log/
+
+#weights
+*.pth.tar
+
+
